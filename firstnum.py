@@ -1,0 +1,2 @@
+A = "ananth"
+print(A)
